@@ -1,0 +1,7 @@
+5 things to do if we have time 
+
+1) Create an html / css / js page and link them
+2) Add a button on the html page that fires a function 
+3) Write a function that uses fetch to get an array of films 
+4) Write a function that uses this array to display results
+5) Make the page look nice 
